@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px
+}
+body{
+    background-image: url("assets/img/civilization2\ \(3\).jpg ");
+    background-size: contain;
+}
+#header{
+    background: rosybrown;
+    height: 70px;
+   
+}
+#navbar{
+    background: rgb(230, 49, 49);
+    height: 100px;
+   
+}
+#maincontact{
+    background: rgb(143, 151, 188);
+    height: 1000px;
+   
+}
+#footer{
+    background: rgb(124, 26, 72);
+    height: 200px;
+  
+}
